@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 63d29045f9f538b4fbef2769759808b4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ante_parabrisa
+    100002: //RootNode
+    100004: canio
+    100006: canio1
+    100008: canio10
+    100010: canio11
+    100012: canio12
+    100014: canio13
+    100016: canio14
+    100018: canio15
+    100020: canio2
+    100022: canio3
+    100024: canio4
+    100026: canio5
+    100028: canio6
+    100030: canio7
+    100032: canio8
+    100034: canio9
+    100036: Canio_de_ruedas
+    100038: Canio_de_ruedas1
+    100040: Capot
+    100042: Decorado_capot
+    100044: enganche1
+    100046: enganche2
+    100048: Escalones
+    100050: Frente_Camioneta
+    100052: frente_capot
+    100054: guarda_rueda1
+    100056: guarda_rueda2
+    100058: Luces_Traceras
+    100060: Luces_Traceras1
+    100062: LugarDeRemolque
+    100064: Manija
+    100066: Manija1
+    100068: Para_Choques_Trasero
+    100070: Parecitas_de_la_camioneta
+    100072: Parte_Atras_Camioneta5
+    100074: pCube19
+    100076: pCube22
+    100078: pCube24
+    100080: pCube25
+    100082: pCube27
+    100084: pCube28
+    100086: pCube29
+    100088: pCube30
+    100090: pCube31
+    100092: pCube32
+    100094: pCube35
+    100096: pCube35 1
+    100098: pCube35 10
+    100100: pCube35 11
+    100102: pCube35 12
+    100104: pCube35 13
+    100106: pCube35 14
+    100108: pCube35 15
+    100110: pCube35 16
+    100112: pCube35 17
+    100114: pCube35 18
+    100116: pCube35 19
+    100118: pCube35 2
+    100120: pCube35 3
+    100122: pCube35 4
+    100124: pCube35 5
+    100126: pCube35 6
+    100128: pCube35 7
+    100130: pCube35 8
+    100132: pCube35 9
+    100134: pCube36
+    100136: pCube36 1
+    100138: pCube36 2
+    100140: pCube36 3
+    100142: pCube36 4
+    100144: pCube37
+    100146: pCube37 1
+    100148: pCube37 10
+    100150: pCube37 11
+    100152: pCube37 12
+    100154: pCube37 13
+    100156: pCube37 14
+    100158: pCube37 2
+    100160: pCube37 3
+    100162: pCube37 4
+    100164: pCube37 5
+    100166: pCube37 6
+    100168: pCube37 7
+    100170: pCube37 8
+    100172: pCube37 9
+    100174: pCube38
+    100176: pCube40
+    100178: pCube43
+    100180: pCube44
+    100182: pCube45
+    100184: pCube46
+    100186: pCube47
+    100188: pCube48
+    100190: pCube48 1
+    100192: pCube49
+    100194: pCube49 1
+    100196: pCylinder1
+    100198: pCylinder10
+    100200: pCylinder11
+    100202: pCylinder13
+    100204: pCylinder14
+    100206: pCylinder14 1
+    100208: pCylinder2
+    100210: pCylinder3
+    100212: pCylinder4
+    100214: pCylinder4 1
+    100216: pCylinder5
+    100218: pCylinder7
+    100220: pCylinder7 1
+    100222: pCylinder8
+    100224: pCylinder8 1
+    100226: pCylinder9
+    100228: pCylinder9 1
+    100230: plano_capot
+    100232: pTorus1
+    100234: pTorus1 1
+    100236: pTorus10
+    100238: pTorus11
+    100240: pTorus2
+    100242: pTorus2 1
+    100244: pTorus3
+    100246: pTorus4
+    100248: pTorus5
+    100250: pTorus6
+    100252: pTorus7
+    100254: pTorus7 1
+    100256: pTorus8
+    100258: pTorus8 1
+    100260: pTorus9
+    100262: pTorus9 1
+    100264: Puerta_Derecha1
+    100266: Puerta_Izquierda2
+    100268: Reflector
+    100270: Reflector1
+    100272: Reflector2
+    100274: Reflector3
+    100276: Reflector4
+    100278: Reflector5
+    100280: Reflectores
+    100282: Rueda_DD
+    100284: Rueda_Derecha_trasera
+    100286: Rueda_Derecha_trasera 1
+    100288: Rueda_Derecha_trasera 2
+    100290: Rueda_Derecha_trasera 3
+    100292: Rueda_Derecha_Trasera_Interna
+    100294: Rueda_Derecha_Trasera_Interna 1
+    100296: Rueda_Derecha_Trasera_Interna 2
+    100298: Rueda_Derecha_Trasera_Interna 3
+    100300: Rueda_DI
+    100302: Rueda_TD
+    100304: Rueda_TI
+    100306: SoporteLugarDeRemolque
+    100308: Sosten
+    100310: Sosten1
+    100312: Sosten10
+    100314: Sosten11
+    100316: Sosten17
+    100318: Sosten18
+    100320: Sosten19
+    100322: Sosten2
+    100324: Sosten20
+    100326: Sosten21
+    100328: Sosten22
+    100330: Sosten23
+    100332: Sosten24
+    100334: Sosten3
+    100336: Sosten4
+    100338: Sosten5
+    100340: Sosten6
+    100342: Sosten7
+    100344: Sosten8
+    100346: Sosten9
+    100348: Sostenes_Tubos
+    100350: Techo
+    100352: Tuberia_Abajo_Derecha
+    100354: Tuberia_Abajo_Izquierda
+    100356: Ventilacion_capot
+    100358: Vidrio_1
+    100360: Vidrio_2
+    100362: Vidrio_3
+    100364: Vidrio_4
+    400000: Ante_parabrisa
+    400002: //RootNode
+    400004: canio
+    400006: canio1
+    400008: canio10
+    400010: canio11
+    400012: canio12
+    400014: canio13
+    400016: canio14
+    400018: canio15
+    400020: canio2
+    400022: canio3
+    400024: canio4
+    400026: canio5
+    400028: canio6
+    400030: canio7
+    400032: canio8
+    400034: canio9
+    400036: Canio_de_ruedas
+    400038: Canio_de_ruedas1
+    400040: Capot
+    400042: Decorado_capot
+    400044: enganche1
+    400046: enganche2
+    400048: Escalones
+    400050: Frente_Camioneta
+    400052: frente_capot
+    400054: guarda_rueda1
+    400056: guarda_rueda2
+    400058: Luces_Traceras
+    400060: Luces_Traceras1
+    400062: LugarDeRemolque
+    400064: Manija
+    400066: Manija1
+    400068: Para_Choques_Trasero
+    400070: Parecitas_de_la_camioneta
+    400072: Parte_Atras_Camioneta5
+    400074: pCube19
+    400076: pCube22
+    400078: pCube24
+    400080: pCube25
+    400082: pCube27
+    400084: pCube28
+    400086: pCube29
+    400088: pCube30
+    400090: pCube31
+    400092: pCube32
+    400094: pCube35
+    400096: pCube35 1
+    400098: pCube35 10
+    400100: pCube35 11
+    400102: pCube35 12
+    400104: pCube35 13
+    400106: pCube35 14
+    400108: pCube35 15
+    400110: pCube35 16
+    400112: pCube35 17
+    400114: pCube35 18
+    400116: pCube35 19
+    400118: pCube35 2
+    400120: pCube35 3
+    400122: pCube35 4
+    400124: pCube35 5
+    400126: pCube35 6
+    400128: pCube35 7
+    400130: pCube35 8
+    400132: pCube35 9
+    400134: pCube36
+    400136: pCube36 1
+    400138: pCube36 2
+    400140: pCube36 3
+    400142: pCube36 4
+    400144: pCube37
+    400146: pCube37 1
+    400148: pCube37 10
+    400150: pCube37 11
+    400152: pCube37 12
+    400154: pCube37 13
+    400156: pCube37 14
+    400158: pCube37 2
+    400160: pCube37 3
+    400162: pCube37 4
+    400164: pCube37 5
+    400166: pCube37 6
+    400168: pCube37 7
+    400170: pCube37 8
+    400172: pCube37 9
+    400174: pCube38
+    400176: pCube40
+    400178: pCube43
+    400180: pCube44
+    400182: pCube45
+    400184: pCube46
+    400186: pCube47
+    400188: pCube48
+    400190: pCube48 1
+    400192: pCube49
+    400194: pCube49 1
+    400196: pCylinder1
+    400198: pCylinder10
+    400200: pCylinder11
+    400202: pCylinder13
+    400204: pCylinder14
+    400206: pCylinder14 1
+    400208: pCylinder2
+    400210: pCylinder3
+    400212: pCylinder4
+    400214: pCylinder4 1
+    400216: pCylinder5
+    400218: pCylinder7
+    400220: pCylinder7 1
+    400222: pCylinder8
+    400224: pCylinder8 1
+    400226: pCylinder9
+    400228: pCylinder9 1
+    400230: plano_capot
+    400232: pTorus1
+    400234: pTorus1 1
+    400236: pTorus10
+    400238: pTorus11
+    400240: pTorus2
+    400242: pTorus2 1
+    400244: pTorus3
+    400246: pTorus4
+    400248: pTorus5
+    400250: pTorus6
+    400252: pTorus7
+    400254: pTorus7 1
+    400256: pTorus8
+    400258: pTorus8 1
+    400260: pTorus9
+    400262: pTorus9 1
+    400264: Puerta_Derecha1
+    400266: Puerta_Izquierda2
+    400268: Reflector
+    400270: Reflector1
+    400272: Reflector2
+    400274: Reflector3
+    400276: Reflector4
+    400278: Reflector5
+    400280: Reflectores
+    400282: Rueda_DD
+    400284: Rueda_Derecha_trasera
+    400286: Rueda_Derecha_trasera 1
+    400288: Rueda_Derecha_trasera 2
+    400290: Rueda_Derecha_trasera 3
+    400292: Rueda_Derecha_Trasera_Interna
+    400294: Rueda_Derecha_Trasera_Interna 1
+    400296: Rueda_Derecha_Trasera_Interna 2
+    400298: Rueda_Derecha_Trasera_Interna 3
+    400300: Rueda_DI
+    400302: Rueda_TD
+    400304: Rueda_TI
+    400306: SoporteLugarDeRemolque
+    400308: Sosten
+    400310: Sosten1
+    400312: Sosten10
+    400314: Sosten11
+    400316: Sosten17
+    400318: Sosten18
+    400320: Sosten19
+    400322: Sosten2
+    400324: Sosten20
+    400326: Sosten21
+    400328: Sosten22
+    400330: Sosten23
+    400332: Sosten24
+    400334: Sosten3
+    400336: Sosten4
+    400338: Sosten5
+    400340: Sosten6
+    400342: Sosten7
+    400344: Sosten8
+    400346: Sosten9
+    400348: Sostenes_Tubos
+    400350: Techo
+    400352: Tuberia_Abajo_Derecha
+    400354: Tuberia_Abajo_Izquierda
+    400356: Ventilacion_capot
+    400358: Vidrio_1
+    400360: Vidrio_2
+    400362: Vidrio_3
+    400364: Vidrio_4
+    2100000: MAT_Camioneta
+    2300000: Ante_parabrisa
+    2300002: canio
+    2300004: canio1
+    2300006: canio10
+    2300008: canio11
+    2300010: canio12
+    2300012: canio13
+    2300014: canio14
+    2300016: canio15
+    2300018: canio2
+    2300020: canio3
+    2300022: canio4
+    2300024: canio5
+    2300026: canio6
+    2300028: canio7
+    2300030: canio8
+    2300032: canio9
+    2300034: Capot
+    2300036: Decorado_capot
+    2300038: enganche1
+    2300040: enganche2
+    2300042: Frente_Camioneta
+    2300044: frente_capot
+    2300046: guarda_rueda1
+    2300048: guarda_rueda2
+    2300050: LugarDeRemolque
+    2300052: Parte_Atras_Camioneta5
+    2300054: pCube19
+    2300056: pCube22
+    2300058: pCube24
+    2300060: pCube25
+    2300062: pCube27
+    2300064: pCube28
+    2300066: pCube29
+    2300068: pCube30
+    2300070: pCube31
+    2300072: pCube32
+    2300074: pCube35
+    2300076: pCube35 1
+    2300078: pCube35 10
+    2300080: pCube35 11
+    2300082: pCube35 12
+    2300084: pCube35 13
+    2300086: pCube35 14
+    2300088: pCube35 15
+    2300090: pCube35 16
+    2300092: pCube35 17
+    2300094: pCube35 18
+    2300096: pCube35 19
+    2300098: pCube35 2
+    2300100: pCube35 3
+    2300102: pCube35 4
+    2300104: pCube35 5
+    2300106: pCube35 6
+    2300108: pCube35 7
+    2300110: pCube35 8
+    2300112: pCube35 9
+    2300114: pCube36
+    2300116: pCube36 1
+    2300118: pCube36 2
+    2300120: pCube36 3
+    2300122: pCube36 4
+    2300124: pCube37
+    2300126: pCube37 1
+    2300128: pCube37 10
+    2300130: pCube37 11
+    2300132: pCube37 12
+    2300134: pCube37 13
+    2300136: pCube37 14
+    2300138: pCube37 2
+    2300140: pCube37 3
+    2300142: pCube37 4
+    2300144: pCube37 5
+    2300146: pCube37 6
+    2300148: pCube37 7
+    2300150: pCube37 8
+    2300152: pCube37 9
+    2300154: pCube38
+    2300156: pCube40
+    2300158: pCube43
+    2300160: pCube44
+    2300162: pCube45
+    2300164: pCube46
+    2300166: pCube47
+    2300168: pCube48
+    2300170: pCube48 1
+    2300172: pCube49
+    2300174: pCube49 1
+    2300176: pCylinder1
+    2300178: pCylinder10
+    2300180: pCylinder11
+    2300182: pCylinder13
+    2300184: pCylinder14
+    2300186: pCylinder14 1
+    2300188: pCylinder2
+    2300190: pCylinder3
+    2300192: pCylinder4
+    2300194: pCylinder4 1
+    2300196: pCylinder5
+    2300198: pCylinder7
+    2300200: pCylinder7 1
+    2300202: pCylinder8
+    2300204: pCylinder8 1
+    2300206: pCylinder9
+    2300208: pCylinder9 1
+    2300210: plano_capot
+    2300212: pTorus1
+    2300214: pTorus1 1
+    2300216: pTorus10
+    2300218: pTorus11
+    2300220: pTorus2
+    2300222: pTorus2 1
+    2300224: pTorus3
+    2300226: pTorus4
+    2300228: pTorus5
+    2300230: pTorus6
+    2300232: pTorus7
+    2300234: pTorus7 1
+    2300236: pTorus8
+    2300238: pTorus8 1
+    2300240: pTorus9
+    2300242: pTorus9 1
+    2300244: Puerta_Derecha1
+    2300246: Puerta_Izquierda2
+    2300248: Reflector
+    2300250: Reflector1
+    2300252: Reflector2
+    2300254: Reflector3
+    2300256: Reflector4
+    2300258: Reflector5
+    2300260: Rueda_Derecha_trasera
+    2300262: Rueda_Derecha_trasera 1
+    2300264: Rueda_Derecha_trasera 2
+    2300266: Rueda_Derecha_trasera 3
+    2300268: Rueda_Derecha_Trasera_Interna
+    2300270: Rueda_Derecha_Trasera_Interna 1
+    2300272: Rueda_Derecha_Trasera_Interna 2
+    2300274: Rueda_Derecha_Trasera_Interna 3
+    2300276: SoporteLugarDeRemolque
+    2300278: Techo
+    2300280: Tuberia_Abajo_Derecha
+    2300282: Tuberia_Abajo_Izquierda
+    2300284: Ventilacion_capot
+    2300286: Vidrio_1
+    2300288: Vidrio_2
+    2300290: Vidrio_3
+    2300292: Vidrio_4
+    3300000: Ante_parabrisa
+    3300002: canio
+    3300004: canio1
+    3300006: canio10
+    3300008: canio11
+    3300010: canio12
+    3300012: canio13
+    3300014: canio14
+    3300016: canio15
+    3300018: canio2
+    3300020: canio3
+    3300022: canio4
+    3300024: canio5
+    3300026: canio6
+    3300028: canio7
+    3300030: canio8
+    3300032: canio9
+    3300034: Capot
+    3300036: Decorado_capot
+    3300038: enganche1
+    3300040: enganche2
+    3300042: Frente_Camioneta
+    3300044: frente_capot
+    3300046: guarda_rueda1
+    3300048: guarda_rueda2
+    3300050: LugarDeRemolque
+    3300052: Parte_Atras_Camioneta5
+    3300054: pCube19
+    3300056: pCube22
+    3300058: pCube24
+    3300060: pCube25
+    3300062: pCube27
+    3300064: pCube28
+    3300066: pCube29
+    3300068: pCube30
+    3300070: pCube31
+    3300072: pCube32
+    3300074: pCube35
+    3300076: pCube35 1
+    3300078: pCube35 10
+    3300080: pCube35 11
+    3300082: pCube35 12
+    3300084: pCube35 13
+    3300086: pCube35 14
+    3300088: pCube35 15
+    3300090: pCube35 16
+    3300092: pCube35 17
+    3300094: pCube35 18
+    3300096: pCube35 19
+    3300098: pCube35 2
+    3300100: pCube35 3
+    3300102: pCube35 4
+    3300104: pCube35 5
+    3300106: pCube35 6
+    3300108: pCube35 7
+    3300110: pCube35 8
+    3300112: pCube35 9
+    3300114: pCube36
+    3300116: pCube36 1
+    3300118: pCube36 2
+    3300120: pCube36 3
+    3300122: pCube36 4
+    3300124: pCube37
+    3300126: pCube37 1
+    3300128: pCube37 10
+    3300130: pCube37 11
+    3300132: pCube37 12
+    3300134: pCube37 13
+    3300136: pCube37 14
+    3300138: pCube37 2
+    3300140: pCube37 3
+    3300142: pCube37 4
+    3300144: pCube37 5
+    3300146: pCube37 6
+    3300148: pCube37 7
+    3300150: pCube37 8
+    3300152: pCube37 9
+    3300154: pCube38
+    3300156: pCube40
+    3300158: pCube43
+    3300160: pCube44
+    3300162: pCube45
+    3300164: pCube46
+    3300166: pCube47
+    3300168: pCube48
+    3300170: pCube48 1
+    3300172: pCube49
+    3300174: pCube49 1
+    3300176: pCylinder1
+    3300178: pCylinder10
+    3300180: pCylinder11
+    3300182: pCylinder13
+    3300184: pCylinder14
+    3300186: pCylinder14 1
+    3300188: pCylinder2
+    3300190: pCylinder3
+    3300192: pCylinder4
+    3300194: pCylinder4 1
+    3300196: pCylinder5
+    3300198: pCylinder7
+    3300200: pCylinder7 1
+    3300202: pCylinder8
+    3300204: pCylinder8 1
+    3300206: pCylinder9
+    3300208: pCylinder9 1
+    3300210: plano_capot
+    3300212: pTorus1
+    3300214: pTorus1 1
+    3300216: pTorus10
+    3300218: pTorus11
+    3300220: pTorus2
+    3300222: pTorus2 1
+    3300224: pTorus3
+    3300226: pTorus4
+    3300228: pTorus5
+    3300230: pTorus6
+    3300232: pTorus7
+    3300234: pTorus7 1
+    3300236: pTorus8
+    3300238: pTorus8 1
+    3300240: pTorus9
+    3300242: pTorus9 1
+    3300244: Puerta_Derecha1
+    3300246: Puerta_Izquierda2
+    3300248: Reflector
+    3300250: Reflector1
+    3300252: Reflector2
+    3300254: Reflector3
+    3300256: Reflector4
+    3300258: Reflector5
+    3300260: Rueda_Derecha_trasera
+    3300262: Rueda_Derecha_trasera 1
+    3300264: Rueda_Derecha_trasera 2
+    3300266: Rueda_Derecha_trasera 3
+    3300268: Rueda_Derecha_Trasera_Interna
+    3300270: Rueda_Derecha_Trasera_Interna 1
+    3300272: Rueda_Derecha_Trasera_Interna 2
+    3300274: Rueda_Derecha_Trasera_Interna 3
+    3300276: SoporteLugarDeRemolque
+    3300278: Techo
+    3300280: Tuberia_Abajo_Derecha
+    3300282: Tuberia_Abajo_Izquierda
+    3300284: Ventilacion_capot
+    3300286: Vidrio_1
+    3300288: Vidrio_2
+    3300290: Vidrio_3
+    3300292: Vidrio_4
+    4300000: LugarDeRemolque
+    4300002: enganche1
+    4300004: enganche2
+    4300006: SoporteLugarDeRemolque
+    4300008: Ante_parabrisa
+    4300010: Decorado_capot
+    4300012: frente_capot
+    4300014: plano_capot
+    4300016: Ventilacion_capot
+    4300018: Capot
+    4300020: Techo
+    4300022: guarda_rueda1
+    4300024: guarda_rueda2
+    4300026: Parte_Atras_Camioneta5
+    4300028: pCube19
+    4300030: pCube22
+    4300032: pCube24
+    4300034: pCube25
+    4300036: pCube44
+    4300038: pCube45
+    4300040: Tuberia_Abajo_Izquierda
+    4300042: Tuberia_Abajo_Derecha
+    4300044: pCube35
+    4300046: pCube37
+    4300048: pCube35
+    4300050: pCube37
+    4300052: pCube35
+    4300054: pCube36
+    4300056: pCube35
+    4300058: pCube37
+    4300060: pCube35
+    4300062: pCube37
+    4300064: pCube35
+    4300066: pCube37
+    4300068: pCube35
+    4300070: pCube37
+    4300072: pCube35
+    4300074: pCube37
+    4300076: pCube35
+    4300078: pCube37
+    4300080: pCube35
+    4300082: pCube37
+    4300084: pCube35
+    4300086: pCube37
+    4300088: pCube35
+    4300090: pCube36
+    4300092: pCube36
+    4300094: pCube35
+    4300096: pCube35
+    4300098: pCube37
+    4300100: pCube35
+    4300102: pCube37
+    4300104: pCube35
+    4300106: pCube37
+    4300108: pCube35
+    4300110: pCube37
+    4300112: pCube36
+    4300114: pCube35
+    4300116: pCube36
+    4300118: pCube35
+    4300120: pCube35
+    4300122: pCube37
+    4300124: pCube27
+    4300126: pCylinder1
+    4300128: pCube28
+    4300130: pCube29
+    4300132: pCylinder2
+    4300134: pCube30
+    4300136: pCube31
+    4300138: pCube32
+    4300140: pCylinder7
+    4300142: pCylinder4
+    4300144: pCylinder5
+    4300146: pTorus8
+    4300148: pTorus7
+    4300150: pTorus6
+    4300152: pTorus5
+    4300154: pCylinder9
+    4300156: pTorus4
+    4300158: pTorus3
+    4300160: pTorus2
+    4300162: pTorus1
+    4300164: pCylinder8
+    4300166: pCylinder3
+    4300168: pCylinder7
+    4300170: pCylinder4
+    4300172: pTorus8
+    4300174: pTorus7
+    4300176: pCylinder9
+    4300178: pTorus2
+    4300180: pTorus1
+    4300182: pCylinder8
+    4300184: pCylinder13
+    4300186: pCylinder10
+    4300188: pCube38
+    4300190: Puerta_Izquierda2
+    4300192: Puerta_Derecha1
+    4300194: pCylinder11
+    4300196: pCube40
+    4300198: pCube43
+    4300200: Vidrio_1
+    4300202: Vidrio_2
+    4300204: Vidrio_3
+    4300206: Vidrio_4
+    4300208: Frente_Camioneta
+    4300210: Rueda_Derecha_trasera
+    4300212: Rueda_Derecha_Trasera_Interna
+    4300214: Rueda_Derecha_trasera
+    4300216: Rueda_Derecha_Trasera_Interna
+    4300218: Rueda_Derecha_trasera
+    4300220: Rueda_Derecha_Trasera_Interna
+    4300222: Rueda_Derecha_trasera
+    4300224: Rueda_Derecha_Trasera_Interna
+    4300226: canio
+    4300228: canio1
+    4300230: canio2
+    4300232: canio3
+    4300234: canio4
+    4300236: canio5
+    4300238: canio6
+    4300240: canio7
+    4300242: canio8
+    4300244: canio9
+    4300246: canio10
+    4300248: canio11
+    4300250: canio12
+    4300252: canio13
+    4300254: canio14
+    4300256: canio15
+    4300258: Reflector
+    4300260: Reflector1
+    4300262: Reflector2
+    4300264: Reflector3
+    4300266: Reflector4
+    4300268: Reflector5
+    4300270: pCube47
+    4300272: pCube46
+    4300274: pCylinder14
+    4300276: pTorus9
+    4300278: pTorus11
+    4300280: pTorus10
+    4300282: pCylinder14
+    4300284: pTorus9
+    4300286: pCube49
+    4300288: pCube48
+    4300290: pCube49
+    4300292: pCube48
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
